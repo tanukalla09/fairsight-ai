@@ -2,8 +2,8 @@ streamlit==1.49.1
 pandas
 numpy
 matplotlib
-scikit-learn
-fairlearn
+scikit-learn==1.6.1
+fairlearn==0.10.0
 google-generativeai
 requests
 python-dotenv
